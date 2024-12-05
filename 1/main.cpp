@@ -5,7 +5,7 @@
 #include <string>
 #include <vector>
 
-#include "../Quick_Sort.h"
+#include "../lib/Quick_Sort.h"
 
 using namespace std;
 
